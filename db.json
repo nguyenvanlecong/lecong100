@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "z37zm7nso",
+      "name": "Áo sơ mi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-1a069.appspot.com/o/images%2F21.jpg?alt=media&token=262022ec-e5a1-4f68-846d-5564e77a4f44",
+      "price": "500000"
+    },
+    {
+      "id": "j22jp3n0f",
+      "name": "Áo sơ mi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-1a069.appspot.com/o/images%2F20.jpg?alt=media&token=4489b27f-8d42-4654-a721-032abe71db5e",
+      "price": "535232"
+    },
+    {
+      "id": "4mxvuvi69",
+      "name": "đồng hồ nam",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-1a069.appspot.com/o/images%2F9.jpg?alt=media&token=1f3c3f39-640a-4622-9574-c39ed2801b44",
+      "price": "1250000"
+    },
+    {
+      "id": "vnpxh68vo",
+      "name": "áo nữ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-1a069.appspot.com/o/images%2F18.jpg?alt=media&token=071fd267-98b2-4f90-9dae-26ec49be4ad6",
+      "price": "1250000"
+    },
+    {
+      "id": "kldreq1sx",
+      "name": "Sơ mi nam678",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-1a069.appspot.com/o/images%2F21.jpg?alt=media&token=75a00b6c-c483-494e-a5f2-7ebadfba77e8",
+      "price": "500000"
+    },
+    {
+      "id": "bn21deow0",
+      "name": "Áo sơ mi123",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-1a069.appspot.com/o/images%2F8.jpg?alt=media&token=475dc969-1ddd-419b-8f10-a33c73f4ad71",
+      "price": "352"
+    }
+  ]
+}
